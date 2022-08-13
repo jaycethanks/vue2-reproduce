@@ -1,3 +1,19 @@
-# webpack-webpack-js-org-x9ftqt
+# vue2-async-demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/webpack-webpack-js-org-x9ftqt)
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
